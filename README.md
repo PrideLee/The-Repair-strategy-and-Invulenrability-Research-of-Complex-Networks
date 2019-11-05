@@ -17,3 +17,9 @@
 问题四要求在问题一构建网络的基础上设计“高可靠、短路径”的通信网，并模拟测试网络10%节点随机故障时其连通性变化。对此本文利用禁忌搜索与遗传算法相结合的策略寻求网络的最小支配集，然后以最小支配集中的顶点为关键节点，在其间增加连边，以提高网络的连通性。同时在不同关键节点数目下，探究增加的连边数目与自然连通度间的关系，并模拟仿真10%的节点遭遇故障时网络的连通度变化。实验表明当关键节点选择数目为25，边的添加数目为60时，网络的鲁棒性高且路径相对较短。
 
 **关键词：复杂通信网络，鲁棒性，最短路径修复，自然连通度**
+
+<div align=center><img width="800" height="400" src="https://github.com/PrideLee/The-Repair-strategy-and-Invulenrability-Research-of-Complex-Networks/blob/master/connectivity_simu.png"/></div>
+
+<div align=center><img width="800" height="400" src="https://github.com/PrideLee/The-Repair-strategy-and-Invulenrability-Research-of-Complex-Networks/blob/master/networks.png"/></div>
+
+
