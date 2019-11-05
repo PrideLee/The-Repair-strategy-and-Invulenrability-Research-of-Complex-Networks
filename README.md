@@ -4,6 +4,8 @@
 - In addition, transforming the original problem as the construction of Steiner tree, we use grid search and genetic algorithm (GA) to optimize the path length and providing the alternative nodes numbers, geographical location information as well as connection methode when the specified nodes failure. Simulation experiment results show that our repair strategy can ensure the network connectivity.
 - Furthermore, relying on above research, we regard the minimum connected dominating set as the key nodes and add the edges amonge them to improve the connectivity of network. Then, with different number of failure nodes, we simulate the change of path lengh and connectivity of network with differnet number of backup nodes and edges. Finally, considering the path length and network connectivity, we construct an optimal communication network.
 
+**You can download the complete report from [here](https://github.com/PrideLee/The-Repair-strategy-and-Invulenrability-Research-of-Complex-Networks/blob/master/%E5%A4%8D%E6%9D%82%E9%80%9A%E4%BF%A1%E7%BD%91%E7%BB%9C%E7%9A%84%E4%BF%AE%E5%A4%8D%E7%AD%96%E7%95%A5%E4%B8%8E%E6%8A%97%E6%94%BB%E5%87%BB%E6%80%A7%E7%A0%94%E7%A9%B6.pdf).**
+
 ## 摘要
 随着科学技术的迅速发展，通信技术已成为国家竞争和社会进步的关键环节。日常生活中通信网络的可靠性保证对于信息的收集获取、消息的传递和日常生活的有序进行起着至关重要的作用。故本文对复杂通信网络的修复策略与鲁棒性进行研究，给出节点严重毁坏时备选节点的确定与连接方式，以保证在最短路径下恢复网络连通，同时给出高连通性网络设计方案，本文工作如下：
 
