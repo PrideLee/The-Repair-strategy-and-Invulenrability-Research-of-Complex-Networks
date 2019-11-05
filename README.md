@@ -1,0 +1,2 @@
+# The-Repair-strategy-and-Invulenrability-Research-of-Complex-Networks
+Comunication network connectivity is essential to our daily life. This project we focus on the repair strategy and invulenrability of complex network, we provide alternative nodes geographical location information and connection methode when nodes are damaged seriously. This repair strategy can minimize the length of communication path and ensure the network connectivity effectively
